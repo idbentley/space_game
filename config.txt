@@ -1,0 +1,4 @@
+screen_x=800
+screen_y=600
+screen_color=16
+
